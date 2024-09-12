@@ -14,3 +14,9 @@ Libraries to install
 - !pip install bs4
 - !pip install nbformat
 
+Code Results:
+##Tesla Stock Graph
+![Tesla_graph](https://github.com/user-attachments/assets/62ed1cce-4275-46a4-b7de-9c2fad4b0e9b)
+
+##GameStop Stock Graph
+![gme_graph](https://github.com/user-attachments/assets/f1de4c0a-f736-4dd0-bc11-1aab441f75a0)
